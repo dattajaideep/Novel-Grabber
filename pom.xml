@@ -68,7 +68,7 @@
 		<dependency>
 			<groupId>org.simplejavamail</groupId>
 			<artifactId>simple-java-mail</artifactId>
-			<version>6.5.2</version>
+			<version>6.7.6</version>
 		</dependency>
 		<dependency>
 			<groupId>net.dankito.readability4j</groupId>
